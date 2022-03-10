@@ -23,3 +23,23 @@
 ![alt](image/liskovSubstitution2.png)
 
 ![alt](image/liskovSubstitution3.png)
+
+## Interface Seggregation Principle
+
+![alt](image/interfaceSeggregation.png)
+
+![alt](image/interfaceSeggregation2.png)
+
+![alt](image/interfaceSeggregation3.png)
+
+### Solution to the problem we faced in Liskov Substitution Principle
+
+![alt](image/liskovSolution.png)
+
+![alt](image/codeSmell2.png)
+
+## Dependency Inversion Principle
+
+![alt](image/dependencyInversionPrinciple.png)
+
+![alt](image/dependencyInversionPrinciple2.png)
