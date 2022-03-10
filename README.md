@@ -15,3 +15,11 @@
 ![alt](image/openClosedPrinciple1.png)
 
 ![alt](image/codeSmell.png)
+
+## Liskov Substitution Principle
+
+![alt](image/liskovSubstitution1.png)
+
+![alt](image/liskovSubstitution2.png)
+
+![alt](image/liskovSubstitution3.png)
