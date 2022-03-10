@@ -43,3 +43,11 @@
 ![alt](image/dependencyInversionPrinciple.png)
 
 ![alt](image/dependencyInversionPrinciple2.png)
+
+![alt](image/dependencyInversionPrinciple3.png)
+
+![alt](image/codeSmell.png)
+
+## Summary
+
+![alt](image/summary.png)
